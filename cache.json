@@ -1,0 +1,491 @@
+{
+  "sources": [
+    {
+      "title": "Release notes from osmosfeed",
+      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
+      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
+      "articles": [
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.0",
+          "author": null,
+          "description": "New: When one of the sources download fails, fall back to cache and continue rest of the build.\nChore: Dependency updates\nAdded docs for Netlify deployment\nFixed #71 #69 #65\nThank you: @sokomin, @molakirlee, @philippnagel, @tianheg",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.0",
+          "publishedOn": "2022-01-10T05:25:18.000Z",
+          "wordCount": 310,
+          "title": "v1.12.0"
+        }
+      ]
+    },
+    {
+      "title": "CSS-Tricks",
+      "feedUrl": "https://css-tricks.com/feed/",
+      "siteUrl": "https://css-tricks.com",
+      "articles": [
+        {
+          "id": "https://css-tricks.com/?p=362382",
+          "author": "Silvestar Bistrović",
+          "description": "I was doing my Advent of UI Components, and I stumbled upon the from-font value for the text-decoration-thickness CSS property. I was curious about it, so I did a little research and I think what I found (and learned) …\nThe CSS from-font Value Explained in 4 Demos originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/from-font-value-text-decoration-thickness/",
+          "publishedOn": "2022-01-28T18:37:52.000Z",
+          "wordCount": 1056,
+          "title": "The CSS from-font Value Explained in 4 Demos"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360998",
+          "author": "Chris Coyier",
+          "description": "I’m always on the wrong branch. I’m either on master or main working on something that should be on a fix or feature branch. Or I’m on the last branch I was working on and should have cut a new …\nGit: Switching Unstaged Changes to a New Branch originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/git-switching-unstaged-changes-to-a-new-branch/",
+          "publishedOn": "2022-01-27T23:49:45.000Z",
+          "wordCount": 688,
+          "title": "Git: Switching Unstaged Changes to a New Branch"
+        },
+        {
+          "id": "https://css-tricks.com/?p=362091",
+          "author": "Adam Rackis",
+          "description": "TypeScript is a wonderful tool for writing JavaScript that scales. It’s more or less the de facto standard for the web when it comes to large JavaScript projects. As outstanding as it is, there are some tricky pieces for the …\nDemystifying TypeScript Discriminated Unions originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/typescript-discriminated-unions/",
+          "publishedOn": "2022-01-27T15:20:57.000Z",
+          "wordCount": 1983,
+          "title": "Demystifying TypeScript Discriminated Unions"
+        },
+        {
+          "id": "https://css-tricks.com/?p=361971",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nDesign systems are an entire job these days. Agencies are hired to create them. In-house teams are formed to handle them, shipping them so that other teams can use them and helping ensure they …\nBuild, Ship, & Maintain Design Systems with Backlight originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/design-systems-with-backlight/",
+          "publishedOn": "2022-01-27T15:18:25.000Z",
+          "wordCount": 1287,
+          "title": "Build, Ship, & Maintain Design Systems with Backlight"
+        },
+        {
+          "id": "https://css-tricks.com/?p=361200",
+          "author": "Chris Coyier",
+          "description": "Say you have three HTML classes, and a DOM element should only have one of them at a time:\n<div class=\"state-1\"</div<div class=\"state-2\"</div<div class=\"state-3\"</div\nNow your job is to rotate them. That is, cycle through classes …\nHow to Cycle Through Classes on an HTML Element originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/cycle-through-classes-html-element/",
+          "publishedOn": "2022-01-26T19:48:49.000Z",
+          "wordCount": 1751,
+          "title": "How to Cycle Through Classes on an HTML Element"
+        },
+        {
+          "id": "https://css-tricks.com/?p=362018",
+          "author": "Temani Afif",
+          "description": "Have you ever tried to make CSS borders in a repeating zig-zag pattern? Like where a colored section of a website ends and another differently colored section begins — not with a straight line, but angled zig zags, rounded humps, …\nFancy CSS Borders Using Masks originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/css-borders-using-masks/",
+          "publishedOn": "2022-01-26T14:26:49.000Z",
+          "wordCount": 2537,
+          "title": "Fancy CSS Borders Using Masks"
+        },
+        {
+          "id": "https://css-tricks.com/?p=362044",
+          "author": "Chris Coyier",
+          "description": "Say you’ve got a <Card /> component. It’s highly likely it shouldn’t be butted right up against any other components with no spacing around it. That’s true for… pretty much every component. So, how do you handle component spacing in …\nHow Do You Handle Component Spacing in a Design System? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/component-spacing-design-system/",
+          "publishedOn": "2022-01-25T23:10:20.000Z",
+          "wordCount": 1357,
+          "title": "How Do You Handle Component Spacing in a Design System?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360550",
+          "author": "Md Shuvo",
+          "description": "A little bit of animation on a site can add some flair, impress users, and get their attention. You could have them run, no matter where they are on the page, immediately when the page loads. But what if your …\nHow to Make a Scroll-Triggered Animation With Basic JavaScript originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/scroll-triggered-animation-vanilla-javascript/",
+          "publishedOn": "2022-01-25T14:14:11.000Z",
+          "wordCount": 1630,
+          "title": "How to Make a Scroll-Triggered Animation With Basic JavaScript"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360811",
+          "author": "Melanie Sumner",
+          "description": "You know that joke, “Two front-end developers walk into a bar and find they have nothing in common”? It’s funny, yet frustrating, because it’s true.\nThis article will present three different perspectives on accessibility in web design and development. Three …\nWhy Don’t Developers Take Accessibility Seriously? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/why-dont-developers-take-accessibility-seriously/",
+          "publishedOn": "2022-01-24T14:49:18.000Z",
+          "wordCount": 5190,
+          "title": "Why Don’t Developers Take Accessibility Seriously?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360346",
+          "author": "Chris Coyier",
+          "description": "SVG is a great image format, so it's nice to able to use it in WordPress. If you're looking to be using SVG in WordPress. , we've got you covered here with all the best options.\nUsing SVG in WordPress (2 Helpful Plugin Recommendations) originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/using-svg-in-wordpress/",
+          "publishedOn": "2022-01-21T19:35:31.000Z",
+          "wordCount": 1464,
+          "title": "Using SVG in WordPress (2 Helpful Plugin Recommendations)"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360665",
+          "author": "John Rhea",
+          "description": "Another aspect of web components that we haven’t talked about yet is that a JavaScript function is called whenever a web component is added or removed from a page. These lifecycle callbacks can be used for many things, including making …\nContext-Aware Web Components Are Easier Than You Think originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/context-aware-web-components/",
+          "publishedOn": "2022-01-21T14:08:05.000Z",
+          "wordCount": 2189,
+          "title": "Context-Aware Web Components Are Easier Than You Think"
+        },
+        {
+          "id": "https://css-tricks.com/?p=361210",
+          "author": "Josh Collinsworth",
+          "description": "(This is a sponsored post.)\nI remember vividly a period early in my coding career when I began to feel that things were changing away from what I knew, and headed towards a more complex set of tools and …\nA Complete Beginner’s Guide to npm originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/a-complete-beginners-guide-to-npm/",
+          "publishedOn": "2022-01-20T15:07:32.000Z",
+          "wordCount": 1545,
+          "title": "A Complete Beginner’s Guide to npm"
+        },
+        {
+          "id": "https://css-tricks.com/?p=361214",
+          "author": "Josh Collinsworth",
+          "description": "One of the things that makes this new, tooling-heavy era of front-end development so seemingly hard to understand at first is that, while we often call things by a singular name, they tend to be actually comprised of several different …\nWhat the Heck Does “npm” Mean? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/a-clear-definition-of-npm-and-what-it-does/",
+          "publishedOn": "2022-01-20T15:04:15.000Z",
+          "wordCount": 1167,
+          "title": "What the Heck Does “npm” Mean?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=361226",
+          "author": "Josh Collinsworth",
+          "description": "Now that we know what npm stands for and have a super general idea of what it does and how it fits into web development, we ought to spend a little bit of time looking at the command line, because …\nWhat the Heck is the Command Line? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/a-deep-look-at-the-command-line/",
+          "publishedOn": "2022-01-20T15:04:09.000Z",
+          "wordCount": 2706,
+          "title": "What the Heck is the Command Line?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=361241",
+          "author": "Josh Collinsworth",
+          "description": "(This is a sponsored post.)\nHere’s what you need to know about Node.js (or simply Node) and how it relates to npm right off the bat:\nNode is JavaScript, but as a server-side language.\nThis is possible because of \n…\nWhat the Heck is Node? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/node-and-how-it-works-with-npm/",
+          "publishedOn": "2022-01-20T15:04:03.000Z",
+          "wordCount": 2607,
+          "title": "What the Heck is Node?"
+        }
+      ]
+    },
+    {
+      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "feedUrl": "https://www.smashingmagazine.com/feed/",
+      "siteUrl": "https://www.smashingmagazine.com/",
+      "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/01/web-frameworks-guide-part1/",
+          "author": "hello@smashingmagazine.com (Noam Rosenthal)",
+          "description": "In this article, Noam Rosenthal dives deep into a few technical features that are common across frameworks, and explains how some of the different frameworks implement them and what they cost.",
+          "link": "https://smashingmagazine.com/2022/01/web-frameworks-guide-part1/",
+          "publishedOn": "2022-01-28T14:00:00.000Z",
+          "wordCount": 2164,
+          "title": "What Web Frameworks Solve And How To Do Without Them (Part 1)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7ca7294e-9325-4bab-8617-0bc3d42e3053/web-frameworks-guide.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/01/software-administration-ux/",
+          "author": "hello@smashingmagazine.com (Shell Zhu & Adrian Jones)",
+          "description": "This article reveals how something as trivial as administration in both software and As-a-service can be either a booster or bottleneck to a company’s productivity and innovation. It also provides several design aspects that UX practitioners should evaluate when designing the administration experience.",
+          "link": "https://smashingmagazine.com/2022/01/software-administration-ux/",
+          "publishedOn": "2022-01-26T12:00:00.000Z",
+          "wordCount": 2586,
+          "title": "Don’t Underestimate The Software Administration UX",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a25c6bb8-7778-48e1-b2e8-04cfd46d0765/software-administration-ux.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/01/devtools-updates-2022/",
+          "author": "hello@smashingmagazine.com (Patrick Brosset)",
+          "description": "What’s new in Chrome, Edge, Safari and Firefox? Patrick Brosset breaks it down with the latest features in DevTools across browsers.",
+          "link": "https://smashingmagazine.com/2022/01/devtools-updates-2022/",
+          "publishedOn": "2022-01-25T13:00:00.000Z",
+          "wordCount": 2522,
+          "title": "What’s New In DevTools?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e516aa85-3b77-418a-9b43-cec06943b129/devtools-updates-2022.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/01/introduction-css-cascade-layers/",
+          "author": "hello@smashingmagazine.com (Stephanie Eckles)",
+          "description": "Cascade layers introduce the new at-rule of @layer. The intent is to help CSS authors be more intentional about ordering the “layers” of CSS rules as a new method of cascade management.",
+          "link": "https://smashingmagazine.com/2022/01/introduction-css-cascade-layers/",
+          "publishedOn": "2022-01-24T11:00:00.000Z",
+          "wordCount": 4755,
+          "title": "Getting Started With CSS Cascade Layers",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/13b8900c-aa53-49ae-84f7-9fbf598635e2/introduction-css-cascade-layers.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/01/from-chaos-to-system-design-teams/",
+          "author": "hello@smashingmagazine.com (Javier Cuello)",
+          "description": "Joining a team where there are no established design practices may feel disheartening. Does this situation resonate with you? If yes, then read on — as this article is sharing the author’s advice based on his personal experience and it will show you a way (although not easy) of facing the problem in a manner that will bring other benefits, beside order and consistency.",
+          "link": "https://smashingmagazine.com/2022/01/from-chaos-to-system-design-teams/",
+          "publishedOn": "2022-01-21T14:30:00.000Z",
+          "wordCount": 5324,
+          "title": "From Chaos To System In Design Teams",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a7ab411a-2903-440e-bbfa-4f7914345165/chaos-to-system-design-teams.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/01/building-real-app-react-query/",
+          "author": "hello@smashingmagazine.com (Georgii Perepecho)",
+          "description": "In this article, Georgii Perepecho explains the most common React Query features that you need to be familiar with when creating a real-life application that is stable when testing.",
+          "link": "https://smashingmagazine.com/2022/01/building-real-app-react-query/",
+          "publishedOn": "2022-01-20T14:30:00.000Z",
+          "wordCount": 5256,
+          "title": "Building The Real App With React Query",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bb299a88-9204-4579-bfb0-f9d8dac84014/building-real-app-react-query.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/01/smashingconf-workshops-january-may-2022/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "What goes into creating a successful design system? How can you take your testing workflow to the next level? And what smart interface design patterns could help you enhance your UIs? Let’s figure it out. With our [online workshops on front-end and UX](https://smashingconf.com/online-workshops).",
+          "link": "https://smashingmagazine.com/2022/01/smashingconf-workshops-january-may-2022/",
+          "publishedOn": "2022-01-19T11:00:00.000Z",
+          "wordCount": 814,
+          "title": "Upcoming Online Workshops: January &ndash; May 2022",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a64a7afb-ef32-458d-9dc1-d8b286fc0327/smashing-online-workshops-winter-2022.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/01/freebie-wayfinding-icon-sets-exhibition-concert-museum/",
+          "author": "hello@smashingmagazine.com (Anton Tyschenko)",
+          "description": "Every once in a while, we publish [freebies](https://www.smashingmagazine.com/category/freebies) related to different occasions and themes. We hope that with this icon set, everyone will be able to find their own use case for these icons in particular. Today, we present to you three icon sets designed by the creative folks at GraphicSurf — all free for personal and commercial use.",
+          "link": "https://smashingmagazine.com/2022/01/freebie-wayfinding-icon-sets-exhibition-concert-museum/",
+          "publishedOn": "2022-01-18T12:00:00.000Z",
+          "wordCount": 833,
+          "title": "Freebie: Wayfinding Icon Sets (164 Icons, PNG, SVG, AI, EPS)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/27d4ee4d-0893-4ef6-b48a-435007089494/wayfinding-icon-preview.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/01/modern-fluid-typography-css-clamp/",
+          "author": "hello@smashingmagazine.com (Adrian Bece)",
+          "description": "We’ll explore fluid typography principles, use-cases, implementation with CSS clamp() and an interactive fluid typography calculator.",
+          "link": "https://smashingmagazine.com/2022/01/modern-fluid-typography-css-clamp/",
+          "publishedOn": "2022-01-17T13:00:00.000Z",
+          "wordCount": 4022,
+          "title": "Modern Fluid Typography Using CSS Clamp",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f12f5a3d-f679-4b6b-b9c2-cb5a9d9166ae/modern-fluid-typography-css-clamp.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part2/",
+          "author": "hello@smashingmagazine.com (Luis Ouriach)",
+          "description": "In [Part 1](https://www.smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/), Luis Ouriach shared advice he wished he had when starting out in his career. In this second and last part of this series, Luis continues sharing tips that helped him grow and become a better designer throughout the years.",
+          "link": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part2/",
+          "publishedOn": "2022-01-14T15:00:00.000Z",
+          "wordCount": 3573,
+          "title": "Ten Tips For Aspiring Designer Beginners (Part 2)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5b0e9621-b939-439d-a812-69a4eb7d68ff/tips-aspiring-designer-beginners-part2.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/01/building-web-code-editor/",
+          "author": "hello@smashingmagazine.com (Daniel Don)",
+          "description": "If you’re a developer who’s thinking about building a platform that requires a code editor in one form or another, then this article is for you. This article explains how to create a web code editor that displays the result in real time with the help of some HTML, CSS and JavaScript.",
+          "link": "https://smashingmagazine.com/2022/01/building-web-code-editor/",
+          "publishedOn": "2022-01-13T11:30:00.000Z",
+          "wordCount": 5053,
+          "title": "Building A Web Code Editor",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b7db33e0-a76e-4f4f-959f-be0f8898784f/building-web-code-editor.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/01/how-hire-digital-accessibility-roles/",
+          "author": "hello@smashingmagazine.com (Kate Kalcevich)",
+          "description": "Accessibility must be a permanent program within organizations, much like security. In this article, Kate Kalcevich shares tips on which skills and questions to keep in mind when hiring for digital accessibility roles.",
+          "link": "https://smashingmagazine.com/2022/01/how-hire-digital-accessibility-roles/",
+          "publishedOn": "2022-01-12T10:30:00.000Z",
+          "wordCount": 3862,
+          "title": "How To Hire For Digital Accessibility Roles",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/99b1af95-05d8-48ce-9086-171a59ba27f0/how-hire-digital-accessibility-roles.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/01/css-radial-conic-gradient/",
+          "author": "hello@smashingmagazine.com (Ahmad Shadeed)",
+          "description": "In this article, we’ll be taking a closer look at two gradients: `conic-gradient` and `radial-gradient`. You’ll see how each one of them works in detail, what the differences and similarities are between them, how and where to use them, and some use cases for each.",
+          "link": "https://smashingmagazine.com/2022/01/css-radial-conic-gradient/",
+          "publishedOn": "2022-01-10T12:30:00.000Z",
+          "wordCount": 2307,
+          "title": "A Deep CSS Dive Into Radial And Conic Gradients",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8b1eea9e-877a-4da7-b531-537a97a44613/css-radial-conic-gradient.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/01/changing-tire-on-moving-car/",
+          "author": "hello@smashingmagazine.com (Scott Himmer)",
+          "description": "Product roadmaps are often treated as a series of checkboxes. But they are more than that. In this article, Scott Himmer explains how internal partnerships, research, design systems, and regular touch bases can help make sure that your product roadmap is a successful one.",
+          "link": "https://smashingmagazine.com/2022/01/changing-tire-on-moving-car/",
+          "publishedOn": "2022-01-07T16:00:00.000Z",
+          "wordCount": 4001,
+          "title": "Changing A Tire On A Moving Car (Or How To Improve Product Roadmaps)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/31db8ed2-e433-46b6-9b8e-ab622b10fce0/changing-tire-on-moving-car.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/",
+          "author": "hello@smashingmagazine.com (Luis Ouriach)",
+          "description": "In this article (the first part in a series of two), Luis Ouriach shares advice that he wishes he has when starting out in his career. These tips come from his experience as a user interface and product designer for close to ten years, and if you’re starting just now, then read on!",
+          "link": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/",
+          "publishedOn": "2022-01-05T13:00:00.000Z",
+          "wordCount": 4076,
+          "title": "Ten Tips For Aspiring Designer Beginners (Part 1)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/954de2dd-e9df-43de-9b9a-bb24c1f8cf0b/tips-aspiring-designer-beginners-part1.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/01/composition-based-design-system-figma/",
+          "author": "hello@smashingmagazine.com (Aleksandra Nagornaia)",
+          "description": "Figma has advanced enough where it now supports some powerful concepts that can help with the flexibility and maintainability of a design system. In this article, Sasha explains why she finds the Systems Designer position so rewarding — and it’s not only because of how fast certain tools have developed to help her master challenges she faces in her work projects.",
+          "link": "https://smashingmagazine.com/2022/01/composition-based-design-system-figma/",
+          "publishedOn": "2022-01-03T13:00:00.000Z",
+          "wordCount": 2645,
+          "title": "Composition-Based Design System In Figma",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/671611c3-eaf7-427e-9e5d-1bb74fbf62f5/composition-based-design-system-figma.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ]
+    },
+    {
+      "title": "freeCodeCamp.org",
+      "feedUrl": "https://www.freecodecamp.org/news/rss/",
+      "siteUrl": "https://www.freecodecamp.org/news",
+      "articles": [
+        {
+          "id": "61f23b31f2ed6b06db5a6166",
+          "author": "TAPAS ADHIKARY",
+          "description": "Web Development is a fascinating area to explore, learn about, and understand.  As a learner, you have many libraries and frameworks that can help you develop projects for the web. It may even become tricky to pick one and get started at times.  But when it comes to",
+          "link": "https://www.freecodecamp.org/news/react-fundamentals-for-beginners/",
+          "publishedOn": "2022-01-28T20:25:24.000Z",
+          "wordCount": 3075,
+          "title": "Learn ReactJS – Complete Roadmap"
+        },
+        {
+          "id": "61f3bff1f2ed6b06db5a6c92",
+          "author": "Kolade Chris",
+          "description": "We use the CSS text-align property to align content inside a block-level element. Examples of block-level elements are paragraphs (<p>...</p>), divs ( <div>...</div>), sections (<section>...</section>), articles ( <article>...</article>), and so on. This alignment affects the horizontal axis only. So the text-align property is different from the vertical-align property which we",
+          "link": "https://www.freecodecamp.org/news/css-text-align-centered-justified-right-aligned-text-style-example/",
+          "publishedOn": "2022-01-28T17:30:39.000Z",
+          "wordCount": 876,
+          "title": "CSS Text Align – Centered, Justified, Right Aligned Text Style Example"
+        },
+        {
+          "id": "61d6d907d2d9de084285d104",
+          "author": "Ihechikara Vincent Abba",
+          "description": "In this article, you will learn what the term REST means and how it lets us communicate with the server efficiently. Before we get into REST, let's learn what an API is. I believe this will help you understand REST better.  What is an API? Since we're talking about",
+          "link": "https://www.freecodecamp.org/news/what-is-rest-rest-api-definition-for-beginners/",
+          "publishedOn": "2022-01-28T17:21:43.000Z",
+          "wordCount": 1207,
+          "title": "What is REST? Rest API Definition for Beginners"
+        },
+        {
+          "id": "61f1d7d0f2ed6b06db5a60a9",
+          "author": "Edem Gold",
+          "description": "If you have ever built a Machine Learning model, you've probably thought \"well this was cool, but how will other people be able to see how cool it is?\"  Model deployment is a part of Machine Learning which isn't talked about as much as it should be. So in",
+          "link": "https://www.freecodecamp.org/news/build-gui-using-gradio-for-machine-learning-models/",
+          "publishedOn": "2022-01-27T21:00:00.000Z",
+          "wordCount": 1538,
+          "title": "How to Build a GUI Using Gradio for Machine Learning Models"
+        },
+        {
+          "id": "61f1a334f2ed6b06db5a5cbe",
+          "author": "Tomer Ben Rachel",
+          "description": "When you want to add some style to your application, you likely look for ways to make your User Interface stand out.  Whether it is using a specific font or a different color palate, you want to make the user feel attracted to your UI.  One way to",
+          "link": "https://www.freecodecamp.org/news/how-to-add-custom-icons-to-your-flutter-application/",
+          "publishedOn": "2022-01-27T20:54:03.000Z",
+          "wordCount": 1247,
+          "title": "How to Add Custom Icons to Your Flutter Application"
+        },
+        {
+          "id": "61eda498011f893303471695",
+          "author": "Joel Olawanle",
+          "description": "If you want to learn React –or any JavaScript framework – you'll first need to understand the fundamental JavaScript methods and concepts. Otherwise it's like a youngster learning to run before learning to walk.  Many developers choose a \"learn as you go\" approach when learning React. But this often",
+          "link": "https://www.freecodecamp.org/news/top-javascript-concepts-to-know-before-learning-react/",
+          "publishedOn": "2022-01-27T20:34:48.000Z",
+          "wordCount": 3921,
+          "title": "Top JavaScript Concepts to Know Before Learning React"
+        },
+        {
+          "id": "61f2dedef2ed6b06db5a651f",
+          "author": "Beau Carnes",
+          "description": "Creating your own game is easier than ever! GDevelop is a beginner-friendly game engine that helps you create 2D games with little to no code. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use GDevelop to create 2D games. Wesley and Max",
+          "link": "https://www.freecodecamp.org/news/create-a-platformer-game-with-gdevelop/",
+          "publishedOn": "2022-01-27T18:20:37.000Z",
+          "wordCount": 423,
+          "title": "Create a Platformer Game with GDevelop"
+        },
+        {
+          "id": "61e1733db837d507ba0a2813",
+          "author": "Danny Adams",
+          "description": "TypeScript has become increasingly popular over the last few years, and many jobs are now requiring developers to know TypeScript.  But don't be alarmed – if you already know JavaScript, you will be able to pick up TypeScript quickly.  Even if you don't plan on using TypeScript, learning",
+          "link": "https://www.freecodecamp.org/news/learn-typescript-beginners-guide/",
+          "publishedOn": "2022-01-27T17:47:36.000Z",
+          "wordCount": 6783,
+          "title": "Learn TypeScript – The Ultimate Beginners Guide"
+        },
+        {
+          "id": "61f03606f2ed6b06db5a5067",
+          "author": "Idris Olubisi",
+          "description": "Serverless databases are all the rage these days. They allow you to develop a fully functional app without building a server or writing server code. A serverless database is a cloud computing solution that lets you distribute and flexibly manage your resources. In this tutorial, we'll build a full-stack application",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-full-stack-application-with-tailwind-css-and-supabase-in-nextjs/",
+          "publishedOn": "2022-01-26T23:03:34.000Z",
+          "wordCount": 2564,
+          "title": "How to Build a Full Stack Application With Supabase, React, and Tailwind CSS in Nextjs"
+        },
+        {
+          "id": "61ee3dc2011f8933034719ea",
+          "author": "Camila Ramos Garzon",
+          "description": "In this article, we'll be discussing the get, put, and post HTTP methods. You'll learn what each HTTP method is used for as well as why we use them.  In order to get a deep understanding of how HTTP methods work, I'll also go over key context and background",
+          "link": "https://www.freecodecamp.org/news/http-request-methods-explained/",
+          "publishedOn": "2022-01-26T21:36:54.000Z",
+          "wordCount": 2959,
+          "title": "HTTP Request Methods – Get vs Put vs Post Explained with Code Examples"
+        }
+      ]
+    }
+  ],
+  "cliVersion": "1.12.0"
+}
