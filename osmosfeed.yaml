@@ -1,6 +1,38 @@
-# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+# cacheUrl: https://uvacoder.github.io/myfeed/cache.json
 sources:
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
   - href: https://css-tricks.com/feed/
   - href: https://www.smashingmagazine.com/feed/
   - href: https://www.freecodecamp.org/news/rss/
+  - href: https://wattenberger.com/rss.rss
+  - href: https://trentwalton.com/feed.xml
+  - href: https://daverupert.com/atom.xml 
+  - href: https://blog.eleftheriabatsou.com/rss.xml
+  - href: https://denic.hashnode.dev/rss.xml
+  - href: https://mr-unity-buddy.hashnode.dev/rss.xml
+  - href: https://lalit2005.hashnode.dev/rss.xml
+  - href: https://andrewm.codes/feed.xml
+  - href: https://barryfrost.com/rss
+  - href: https://lo-victoria.com/rss.xml
+  - href: https://blog.greenroots.info/rss.xml
+  - href: https://trekhleb.dev/rss.xml   
+  - href: https://blog.oliverjumpertz.dev/rss.xml
+  - href: https://faheemkhan97.hashnode.dev/rss.xml
+  - href: https://www.selfdefined.app/feed.xml
+  - href: https://margomccabe.hashnode.dev/rss.xml
+  - href: https://inshaweb.hashnode.dev/rss.xml
+  - href: https://ayushirawat.com/rss.xml
+  - href: https://ramyachinnadurai.in/rss.xml
+  - href: https://samina.dev/rss.xml
+  - href: https://townhall.hashnode.com/rss.xml
+  - href: https://swiftbysundell.com/rss
+  - href: https://onmyway133.com/feed.xml
+  - href: https://jackdomleo.dev/blog
+  - href: https://savio.xyz/rss.xml
+  - href: https://www.thoughtasylum.com/atom.xml
+  - href: https://francescociulla.com/rss.xml
+  - href: https://zocodes.hashnode.dev/rss.xml
+  - href: https://sumudusiriwardana.hashnode.dev/rss.xml
+  - href: http://feeds.feedburner.com/azquotes/quoteoftheday
+  - href: https://blog.rutikwankhade.dev/rss.xml
+  - href: https://daily.dev/blog/rss.xml
